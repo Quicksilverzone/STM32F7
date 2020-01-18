@@ -1,4 +1,4 @@
-# STM32 Peripheral drivers written with CMSIS 
+# STM32 Peripheral drivers (CMSIS) 
 
 // STM32F767ZI
 // STM32L011K4
