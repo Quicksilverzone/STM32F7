@@ -5,7 +5,7 @@ This Code is Base project for STM32F767ZI for understanding basics of register b
 Written by S.Emre KASAP 
 e-mail: sevketemrekasap@gmail.com
 
-16 Mhz HSI is used for very simple project like this but you can apply PLL settings for full 216 Mhz clcok speed.
+16 Mhz HSI is used for very simple project like this but you can apply PLL settings for full 216 Mhz clock speed.
 
 */
 
